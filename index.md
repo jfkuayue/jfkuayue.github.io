@@ -6,6 +6,16 @@ English | [简体中文](./index-chs.md)
 > 
 > 这是学术网站．铁道与交通网站请移步[跨越人](https://kuayue.ren)．
 
+## Table of Contents
+
+- [Mathematics Portal](./math/index.md)
+
+- [Literature and Linguistics Portal](./lang/index.md)
+
+- [Personal Portal](./self/index.md)
+
+- [Collections of Links](./link/index.md)
+
 ## Sang Tianze (Anglicised as: Tianze Sang)
 Pure Mathematics Student
 
@@ -17,7 +27,7 @@ justice523@outlook.com
 
 ### Education
 - BSc Hons Mathematics, University of Nottingham, Nottingham, September 2022 to June 2026,
-    - Third Price, 31st International Mathematics Competition for University Students, Blagoevgrad (Bulgaria), August 2024
+    - Third Prize, 31st International Mathematics Competition for University Students, Blagoevgrad (Bulgaria), August 2024
     - in Ningbo, China campus until 2024; however, due to the programmer transfer from "BSc Mathematics with Applied Mathematics" (which lacked pure mathematics modules) to "BSc Mathematics", the Ningbo-side degree was dropped out.
 - Zibo No. 4 High School, September 2019 to June 2022
     - the choice of subjects were Physics, Chemistry, Biology, albeit performed badly in Gaokao
