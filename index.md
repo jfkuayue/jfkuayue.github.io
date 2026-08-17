@@ -26,6 +26,7 @@ smyts4@nottingham.ac.uk
 justice523@outlook.com
 
 ### Education
+- MSc Mathematics, University of Copenhagen, Copenhagen, from September 2026
 - BSc Hons Mathematics, University of Nottingham, Nottingham, September 2022 to June 2026,
     - Third Prize, 31st International Mathematics Competition for University Students, Blagoevgrad (Bulgaria), August 2024
     - in Ningbo, China campus until 2024; however, due to the programmer transfer from "BSc Mathematics with Applied Mathematics" (which lacked pure mathematics modules) to "BSc Mathematics", the Ningbo-side degree was dropped out.
